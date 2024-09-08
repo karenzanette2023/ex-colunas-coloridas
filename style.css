@@ -1,0 +1,15 @@
+.texto {
+    margin: 40px;
+    padding: 20px;
+}
+
+.paragrafo-um {
+    background-color: blue;
+    margin: 40px;
+    padding: 40px;
+}
+.paragrafo-dois {
+    background-color: brown;
+    margin: 40px;
+    padding: 40px;
+}
